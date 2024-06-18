@@ -18,5 +18,5 @@ Start revising basics of HTML / CSS with crash courses then implement these skil
 
 
 Courses schedule  : 
-Course starts in                === >  18/6/2024
-Course Ends  in                === >  24/6/2024
+Course starts in        === >  18/6/2024
+Course Ends  in         === >  24/6/2024
